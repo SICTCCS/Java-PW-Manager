@@ -1,6 +1,6 @@
 # Password Manager README
 
-## 25% Password Manager
+## Password Manager
 
 This is a terminal-based password manager built in Java. It not only stores login credentials for applications and websites but also provides additional features such as password generation, category-based organization, and data persistence.
 
